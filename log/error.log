@@ -1,0 +1,404 @@
+[Sat Oct 16 15:09:47.460596 2021] [auth_basic:error] [pid 19] [client 172.20.0.1:55202] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:10:12.465696 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 15:10:37.433837 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 15:10:37.436430 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 15:10:37.436239 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:10:37.436826 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:10:37.440984 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:10:37.437370 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:10:37.438850 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:10:37.441736 2021] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:10:37.442315 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:10:37.447077 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:10:37.443135 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:10:37.443902 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:10:37.444094 2021] [dbd:crit] [pid 17] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:10:37.448368 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:10:37.450166 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:10:37.451440 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:10:37.456814 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:10:54.852080 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 15:13:59.537269 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 15:13:59.538882 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 15:13:59.538814 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:13:59.538998 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:13:59.542047 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:13:59.546626 2021] [dbd:error] [pid 22] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:13:59.542918 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:13:59.544620 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:13:59.546226 2021] [dbd:error] [pid 23] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:13:59.551669 2021] [dbd:error] [pid 23] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:13:59.546874 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:13:59.553960 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:13:59.547770 2021] [dbd:error] [pid 22] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:13:59.549025 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:13:59.550166 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:13:59.552947 2021] [dbd:crit] [pid 23] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:13:59.555828 2021] [dbd:crit] [pid 22] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:14:30.665040 2021] [auth_basic:error] [pid 21] [client 172.21.0.1:55240] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:14:30.678544 2021] [auth_basic:error] [pid 21] [client 172.21.0.1:55240] AH01618: user  not found: /
+[Sat Oct 16 15:15:16.318420 2021] [auth_basic:error] [pid 19] [client 172.21.0.1:55248] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:16.329894 2021] [auth_basic:error] [pid 19] [client 172.21.0.1:55248] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:36.057631 2021] [auth_basic:error] [pid 20] [client 172.21.0.1:55254] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:36.069823 2021] [auth_basic:error] [pid 20] [client 172.21.0.1:55254] AH01617: user Bob: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:46.346615 2021] [auth_basic:error] [pid 23] [client 172.21.0.1:55260] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:46.357546 2021] [auth_basic:error] [pid 23] [client 172.21.0.1:55260] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:49.718106 2021] [auth_basic:error] [pid 23] [client 172.21.0.1:55260] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:15:49.731377 2021] [auth_basic:error] [pid 23] [client 172.21.0.1:55260] AH01618: user  not found: /
+[Sat Oct 16 15:20:51.910684 2021] [auth_basic:error] [pid 22] [client 172.21.0.1:55266] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:32:22.967997 2021] [auth_basic:error] [pid 24] [client 172.21.0.1:55272] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:32:22.980516 2021] [auth_basic:error] [pid 24] [client 172.21.0.1:55272] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:32:25.535723 2021] [auth_basic:error] [pid 24] [client 172.21.0.1:55272] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:32:25.547521 2021] [auth_basic:error] [pid 24] [client 172.21.0.1:55272] AH01618: user  not found: /
+[Sat Oct 16 15:35:41.576075 2021] [auth_basic:error] [pid 21] [client 172.21.0.1:55278] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:35:41.590049 2021] [auth_basic:error] [pid 21] [client 172.21.0.1:55278] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:37:41.992497 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 15:38:27.145656 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 15:38:27.147401 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 15:38:27.146219 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:38:27.148647 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:38:27.148786 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:27.150137 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:38:27.149600 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:27.150264 2021] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:38:27.150773 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:27.153017 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:38:27.151947 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:38:27.152363 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:38:27.155321 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:27.154767 2021] [dbd:error] [pid 22] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:38:27.155899 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:38:27.156491 2021] [dbd:error] [pid 22] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:27.157670 2021] [dbd:crit] [pid 22] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:38:37.987123 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00632: failed to prepare SQL statements: FUNCTION appdb.ENCRYPT does not exist
+[Sat Oct 16 15:38:37.988027 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:37.988827 2021] [authn_dbd:error] [pid 18] [client 172.21.0.1:55296] AH01653: Failed to acquire database connection to look up user 'Alex'
+[Sat Oct 16 15:38:38.350092 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00632: failed to prepare SQL statements: FUNCTION appdb.ENCRYPT does not exist
+[Sat Oct 16 15:38:38.351003 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:38.351871 2021] [authn_dbd:error] [pid 20] [client 172.21.0.1:55302] AH01653: Failed to acquire database connection to look up user 'Alex', referer: http://localhost:4545/
+[Sat Oct 16 15:38:43.583805 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00632: failed to prepare SQL statements: FUNCTION appdb.ENCRYPT does not exist
+[Sat Oct 16 15:38:43.584923 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:43.586972 2021] [authn_dbd:error] [pid 19] [client 172.21.0.1:55308] AH01653: Failed to acquire database connection to look up user 'Alex'
+[Sat Oct 16 15:38:43.745877 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00632: failed to prepare SQL statements: FUNCTION appdb.ENCRYPT does not exist
+[Sat Oct 16 15:38:43.747610 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:38:43.748438 2021] [authn_dbd:error] [pid 21] [client 172.21.0.1:55314] AH01653: Failed to acquire database connection to look up user 'Alex', referer: http://localhost:4545/
+[Sat Oct 16 15:41:08.441178 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 15:41:22.204744 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:41:22.204744 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:41:22.205762 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 15:41:22.211225 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 15:41:22.209013 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:22.209302 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:41:22.209773 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:22.215293 2021] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:41:22.213210 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:41:22.213726 2021] [dbd:crit] [pid 17] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:41:22.213887 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:41:22.214530 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:22.217475 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:22.219750 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:22.220712 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:41:22.221730 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:41:22.222983 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:41:50.843594 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00632: failed to prepare SQL statements: FUNCTION appdb.ENCRYPT does not exist
+[Sat Oct 16 15:41:50.844497 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:50.845648 2021] [authn_dbd:error] [pid 18] [client 172.21.0.1:55332] AH01653: Failed to acquire database connection to look up user 'Alex'
+[Sat Oct 16 15:41:51.007200 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00632: failed to prepare SQL statements: FUNCTION appdb.ENCRYPT does not exist
+[Sat Oct 16 15:41:51.008429 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:41:51.009568 2021] [authn_dbd:error] [pid 17] [client 172.21.0.1:55338] AH01653: Failed to acquire database connection to look up user 'Alex', referer: http://localhost:4545/
+[Sat Oct 16 15:43:06.966777 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 15:47:18.922619 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 15:47:18.923498 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 15:47:18.924383 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:47:18.924940 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:47:18.925345 2021] [dbd:crit] [pid 17] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:47:18.925993 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:47:18.926600 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:47:18.927057 2021] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:47:18.930120 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:47:18.930993 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:47:18.931701 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:47:18.934184 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:47:18.935643 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 15:47:18.936402 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:47:18.935801 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 15:47:18.937240 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:47:18.936861 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 15:48:37.607743 2021] [auth_basic:error] [pid 17] [client 172.21.0.1:55398] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:48:44.770495 2021] [auth_basic:error] [pid 18] [client 172.21.0.1:55406] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:48:45.482580 2021] [auth_basic:error] [pid 18] [client 172.21.0.1:55406] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.494824 2021] [auth_basic:error] [pid 19] [client 172.21.0.1:55412] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.506431 2021] [auth_basic:error] [pid 21] [client 172.21.0.1:55416] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.629597 2021] [auth_basic:error] [pid 21] [client 172.21.0.1:55416] AH01617: user Alex: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.633892 2021] [auth_basic:error] [pid 18] [client 172.21.0.1:55406] AH01617: user Alex: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.635570 2021] [auth_basic:error] [pid 19] [client 172.21.0.1:55412] AH01617: user Alex: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.679028 2021] [auth_basic:error] [pid 17] [client 172.21.0.1:55432] AH01617: user Alex: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.681629 2021] [auth_basic:error] [pid 22] [client 172.21.0.1:55428] AH01617: user Alex: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.698478 2021] [auth_basic:error] [pid 20] [client 172.21.0.1:55424] AH01617: user Alex: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:45.915268 2021] [auth_basic:error] [pid 20] [client 172.21.0.1:55424] AH01617: user Alex: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:46.041553 2021] [auth_basic:error] [pid 20] [client 172.21.0.1:55424] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:46.251482 2021] [auth_basic:error] [pid 22] [client 172.21.0.1:55428] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:46.355149 2021] [auth_basic:error] [pid 19] [client 172.21.0.1:55412] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:48:46.358467 2021] [auth_basic:error] [pid 22] [client 172.21.0.1:55428] AH01617: user Alex: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:50:23.098757 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 15:51:49.477155 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 15:51:49.483053 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 15:51:52.218831 2021] [auth_basic:error] [pid 21] [client 172.22.0.1:55470] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:52:02.261678 2021] [auth_basic:error] [pid 17] [client 172.22.0.1:55476] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:52:29.499223 2021] [auth_basic:error] [pid 18] [client 172.22.0.1:55486] AH01617: user Bob: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:57:31.298965 2021] [auth_basic:error] [pid 20] [client 172.22.0.1:55490] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:57:46.313286 2021] [auth_basic:error] [pid 22] [client 172.22.0.1:55496] AH01617: user Bob: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:58:02.170621 2021] [auth_basic:error] [pid 23] [client 172.22.0.1:55506] AH01617: user Bob: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:58:41.352125 2021] [auth_basic:error] [pid 17] [client 172.22.0.1:55512] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.078668 2021] [auth_basic:error] [pid 19] [client 172.22.0.1:55518] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 15:58:47.339844 2021] [auth_basic:error] [pid 19] [client 172.22.0.1:55518] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.346873 2021] [auth_basic:error] [pid 20] [client 172.22.0.1:55528] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.376088 2021] [auth_basic:error] [pid 18] [client 172.22.0.1:55524] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.575548 2021] [auth_basic:error] [pid 19] [client 172.22.0.1:55518] AH01617: user Alex: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.589697 2021] [auth_basic:error] [pid 20] [client 172.22.0.1:55528] AH01617: user Alex: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.591290 2021] [auth_basic:error] [pid 18] [client 172.22.0.1:55524] AH01617: user Alex: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.592005 2021] [auth_basic:error] [pid 22] [client 172.22.0.1:55540] AH01617: user Alex: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.597964 2021] [auth_basic:error] [pid 23] [client 172.22.0.1:55538] AH01617: user Alex: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.667402 2021] [auth_basic:error] [pid 21] [client 172.22.0.1:55544] AH01617: user Alex: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.879835 2021] [auth_basic:error] [pid 22] [client 172.22.0.1:55540] AH01617: user Alex: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.880720 2021] [auth_basic:error] [pid 20] [client 172.22.0.1:55528] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:47.978604 2021] [auth_basic:error] [pid 22] [client 172.22.0.1:55540] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:58:48.078286 2021] [auth_basic:error] [pid 22] [client 172.22.0.1:55540] AH01617: user Alex: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 15:59:57.551798 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 16:00:54.456548 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 16:00:54.457770 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 16:00:55.348945 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55608] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:00:55.371307 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55608] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:01:06.105585 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55624] AH01617: user Alex: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:03:08.185318 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 16:08:27.410987 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 16:08:27.411818 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 16:08:27.410936 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 16:08:27.412584 2021] [dbd:crit] [pid 17] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 16:08:27.413929 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 16:08:27.414175 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 16:08:27.420049 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 16:08:27.418408 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 16:08:27.421666 2021] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 16:08:27.423054 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 16:08:27.423734 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 16:08:27.428539 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 16:08:27.426609 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 16:08:27.432208 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 16:08:27.433250 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 16 16:08:27.442751 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 16 16:08:27.443448 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 16 16:08:40.839111 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55644] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:12:45.984142 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55652] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:12:46.258569 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55652] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:12:46.622212 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55652] AH01617: user Alex: authentication failure for "/favicon.ico": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:12:50.991150 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55658] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:13:12.110389 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55664] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:13:12.650093 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55664] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:13:12.882804 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55670] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:13:12.991236 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55670] AH01617: user Bob: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:13:13.018395 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55676] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:27.903745 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55710] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:27.932967 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55714] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:39.575227 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55722] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:22:39.869094 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55722] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:39.912117 2021] [auth_basic:error] [pid 24] [client 172.23.0.1:55732] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:39.912842 2021] [auth_basic:error] [pid 23] [client 172.23.0.1:55728] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.162610 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55722] AH01617: user Bob: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.165640 2021] [auth_basic:error] [pid 24] [client 172.23.0.1:55732] AH01617: user Bob: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.166815 2021] [auth_basic:error] [pid 23] [client 172.23.0.1:55728] AH01617: user Bob: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.219335 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55746] AH01617: user Bob: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.239266 2021] [auth_basic:error] [pid 25] [client 172.23.0.1:55740] AH01617: user Bob: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.262555 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55748] AH01617: user Bob: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.459119 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55722] AH01617: user Bob: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.459189 2021] [auth_basic:error] [pid 23] [client 172.23.0.1:55728] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:40.592108 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55722] AH01617: user Bob: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.025567 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55764] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:22:46.214314 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55772] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.215426 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55774] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.215503 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55764] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.409967 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55772] AH01617: user Bob: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.419353 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55764] AH01617: user Bob: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.446793 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55774] AH01617: user Bob: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.516570 2021] [auth_basic:error] [pid 26] [client 172.23.0.1:55778] AH01617: user Bob: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.516568 2021] [auth_basic:error] [pid 28] [client 172.23.0.1:55782] AH01617: user Bob: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.517892 2021] [auth_basic:error] [pid 27] [client 172.23.0.1:55786] AH01617: user Bob: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.671308 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55764] AH01617: user Bob: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.672072 2021] [auth_basic:error] [pid 26] [client 172.23.0.1:55778] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:46.854897 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55764] AH01617: user Bob: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:22:57.943486 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 16 16:23:18.812274 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 16 16:23:18.819766 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 16 16:23:20.286559 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55806] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:48.194806 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55822] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:23:48.576708 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55822] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:48.589334 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55826] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:48.912660 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55832] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.003498 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55822] AH01617: user Bob: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.372109 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55836] AH01617: user Bob: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.372613 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55826] AH01617: user Bob: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.373366 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55832] AH01617: user Bob: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.387902 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55840] AH01617: user Bob: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.395081 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55844] AH01617: user Bob: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.637870 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55832] AH01617: user Bob: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:49.685110 2021] [auth_basic:error] [pid 17] [client 172.23.0.1:55844] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:52.257073 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55822] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:23:52.391276 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55822] AH01617: user Bob: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:00.664396 2021] [auth_basic:error] [pid 25] [client 172.23.0.1:55888] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:24:00.945999 2021] [auth_basic:error] [pid 27] [client 172.23.0.1:55892] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:00.949365 2021] [auth_basic:error] [pid 26] [client 172.23.0.1:55896] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:00.953289 2021] [auth_basic:error] [pid 25] [client 172.23.0.1:55888] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.279406 2021] [auth_basic:error] [pid 26] [client 172.23.0.1:55896] AH01617: user Bob: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.279985 2021] [auth_basic:error] [pid 29] [client 172.23.0.1:55900] AH01617: user Bob: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.290258 2021] [auth_basic:error] [pid 27] [client 172.23.0.1:55892] AH01617: user Bob: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.293084 2021] [auth_basic:error] [pid 25] [client 172.23.0.1:55888] AH01617: user Bob: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.309719 2021] [auth_basic:error] [pid 28] [client 172.23.0.1:55904] AH01617: user Bob: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.317853 2021] [auth_basic:error] [pid 18] [client 172.23.0.1:55908] AH01617: user Bob: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.546609 2021] [auth_basic:error] [pid 25] [client 172.23.0.1:55888] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.557216 2021] [auth_basic:error] [pid 29] [client 172.23.0.1:55900] AH01617: user Bob: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:01.862092 2021] [auth_basic:error] [pid 27] [client 172.23.0.1:55892] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.346335 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55914] AH01617: user Alex: authentication failure for "/": Password Mismatch
+[Sat Oct 16 16:24:09.551664 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55922] AH01617: user Alex: authentication failure for "/js/default.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.551668 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55918] AH01617: user Alex: authentication failure for "/js/start.js": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.551933 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55914] AH01617: user Alex: authentication failure for "/css/start.css": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.846000 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55918] AH01617: user Bob: authentication failure for "/media/start.gif": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.857921 2021] [auth_basic:error] [pid 19] [client 172.23.0.1:55922] AH01617: user Bob: authentication failure for "/media/ls-icon1.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.876655 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55914] AH01617: user Bob: authentication failure for "/media/warning.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.878631 2021] [auth_basic:error] [pid 30] [client 172.23.0.1:55932] AH01617: user Bob: authentication failure for "/media/ls-icon3.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.903972 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55926] AH01617: user Bob: authentication failure for "/media/ls-icon2.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:09.920056 2021] [auth_basic:error] [pid 25] [client 172.23.0.1:55934] AH01617: user Bob: authentication failure for "/media/random.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:10.164105 2021] [auth_basic:error] [pid 21] [client 172.23.0.1:55926] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:10.171961 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55914] AH01617: user Bob: authentication failure for "/media/up.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:10.462661 2021] [auth_basic:error] [pid 22] [client 172.23.0.1:55914] AH01617: user Bob: authentication failure for "/media/favicon.png": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:24:10.480854 2021] [auth_basic:error] [pid 20] [client 172.23.0.1:55918] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 16:25:35.336497 2021] [auth_basic:error] [pid 28] [client 172.23.0.1:55942] AH01617: user Bob: authentication failure for "/media/background.mp4": Password Mismatch, referer: http://localhost:4545/
+[Sat Oct 16 17:44:54.231755 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 10:54:40.611819 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 10:54:40.613272 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 10:55:34.137224 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 10:59:38.359039 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 30 10:59:38.359673 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 10:59:38.361827 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 30 10:59:38.364029 2021] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 30 10:59:38.362464 2021] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 30 10:59:38.362613 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 30 10:59:38.363181 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 10:59:38.364787 2021] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 30 10:59:38.365936 2021] [dbd:crit] [pid 17] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 30 10:59:38.366416 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 30 10:59:38.370231 2021] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 30 10:59:38.366681 2021] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 30 10:59:38.372522 2021] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 30 10:59:38.370788 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'bd' (115)
+[Sat Oct 30 10:59:38.371391 2021] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 30 10:59:38.374550 2021] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Sat Oct 30 10:59:38.379672 2021] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Sat Oct 30 11:03:37.653762 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 11:13:34.099396 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 11:13:34.100349 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 11:13:38.687065 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 11:14:36.843220 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 11:14:36.844463 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 11:27:58.411005 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 11:48:06.012695 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 11:48:06.014089 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 11:48:17.196211 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 11:53:05.537669 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 11:53:05.538875 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 12:05:47.028374 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 12:20:55.737156 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 12:20:55.737889 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 12:49:16.807942 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 12:49:16.808764 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 12:52:06.851205 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 12:53:12.370628 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 12:53:12.372510 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 12:55:05.986560 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 12:57:09.591555 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 12:57:09.592860 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 12:59:04.108416 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:28:31.994101 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:28:31.995180 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:29:35.879452 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:34:23.251950 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:34:23.253342 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:43:25.141291 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:44:03.023257 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:44:03.024087 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:45:56.213939 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:46:31.161714 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:46:31.162480 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:49:01.266660 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:49:45.024946 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:49:45.025901 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:51:21.179096 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:53:32.289420 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:53:32.290341 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:55:23.938634 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:55:56.468546 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:55:56.469289 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 13:57:11.529798 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 13:58:13.748223 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 13:58:13.749122 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 14:50:04.292377 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 14:50:46.051426 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 14:50:46.052414 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 14:55:12.332851 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 14:55:49.976282 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 14:55:49.978087 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 15:15:10.688783 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 15:15:27.180239 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 15:15:27.181192 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 15:30:20.937178 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 30 15:30:51.869239 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Sat Oct 30 15:30:51.870657 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 30 18:32:21.445303 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 02 19:10:47.822267 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Tue Nov 02 19:10:47.822921 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 02 20:38:07.910638 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 03 10:53:15.331347 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Wed Nov 03 10:53:15.332136 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 03 11:19:01.693685 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 03 11:56:03.329670 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Wed Nov 03 11:56:03.332868 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 03 12:03:26.401575 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 24 15:49:00.173878 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Wed Nov 24 15:49:00.174032 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 24 15:53:48.919231 2021] [php7:error] [pid 18] [client 172.21.0.4:60432] script '/var/www/html/home.php' not found or unable to stat, referer: http://localhost:4542/edit.html
+[Wed Nov 24 15:54:03.326066 2021] [php7:error] [pid 19] [client 172.21.0.4:60434] script '/var/www/html/home.php' not found or unable to stat, referer: http://localhost:4542/edit.html
+[Wed Nov 24 15:54:41.379236 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
